@@ -1,6 +1,6 @@
 {
-  "name": "@ignite-ui/react",
-  "version": "1.0.0",
+  "name": "@ignite-ui-rodrigo/react",
+  "version": "2.0.0",
   "description": "",
   "main": "./dist/index.ts",
   "module": "./dist/index.mjs",
